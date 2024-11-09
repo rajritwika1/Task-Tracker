@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "description": "Buy groceries and cook dinner",
+    "status": "todo",
+    "createdAt": "2024-11-09T15:37:01.4559465+05:30",
+    "updatedAt": "2024-11-09T15:37:32.3677567+05:30"
+  },
+  {
+    "id": 2,
+    "description": "visit temple",
+    "status": "todo",
+    "createdAt": "2024-11-09T15:38:05.6340148+05:30",
+    "updatedAt": "2024-11-09T15:38:05.6340148+05:30"
+  },
+  {
+    "id": 3,
+    "description": "learn go",
+    "status": "todo",
+    "createdAt": "2024-11-09T15:38:32.2995549+05:30",
+    "updatedAt": "2024-11-09T15:38:32.2995549+05:30"
+  },
+  {
+    "id": 4,
+    "description": "solve dsa",
+    "status": "in-progress",
+    "createdAt": "2024-11-09T15:40:27.6076537+05:30",
+    "updatedAt": "2024-11-09T15:41:06.7609713+05:30"
+  }
+]
